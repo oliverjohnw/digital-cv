@@ -12,7 +12,7 @@ Data science internship with focus on data visualization, applied multivariate s
  -  Assisting with demographic rate models for invasive Silver and Bighead Carp
  -  Formulation of unsupervised clustering techniques to examine Musell populations
  -  Model formulation to quantify agreement statistics in aging technique used among Silver Carp
-<br><br>
+ 
 **Mathematical Tutor** at University of Wisconsin La-Crosse _(September 2019 - Present)_<br>
 
 Collaborate with college students to enhance their understanding and education of Mathematics
