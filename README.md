@@ -20,3 +20,12 @@ Collaborate with college students to enhance their understanding and education o
  - Mathematical knowledge of collegiate-level mathematical courses
  - Adaptation to meet diverse needs of students
 
+## Education
+
+**Master of Science in Applied Statistics**
+University of Wisconsin La Crosse
+Spring 2020 - Fall 2021 (Expected)
+
+**Bachelor of Science in Statistics**
+University of Wisconsin La Crosse
+Fall 2016 - Spring 2020 
