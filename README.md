@@ -22,10 +22,10 @@ Collaborate with college students to enhance their understanding and education o
 
 ## Education
 
-**Master of Science in Applied Statistics**
-University of Wisconsin La Crosse
+**Master of Science in Applied Statistics** <br>
+University of Wisconsin La Crosse <br>
 Spring 2020 - Fall 2021 (Expected)
 
-**Bachelor of Science in Statistics**
-University of Wisconsin La Crosse
+**Bachelor of Science in Statistics** <br>
+University of Wisconsin La Crosse <br>
 Fall 2016 - Spring 2020 
