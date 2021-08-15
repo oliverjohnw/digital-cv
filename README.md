@@ -1,4 +1,18 @@
-## John William Oliver
+# John Oliver
+
+_Data Science Intern and Graduate Student based in La Crosse, Wisconsin_
+
+[Email](mailto:oliver.john@uwlax.edu)/[GitHub](https://github.com/oliverjohnw)/[LinkedIn](https://www.linkedin.com/in/john-oliver-76508519a/)
+
+## Technical Experience
+
+** Data Science Intern** at [U.S. Geological Survey](https://www.usgs.gov/) _(June 2021 - Present)_ <br>
+Data science internship with focus on data visualization, applied multivariate statistics, and population ecology modeling. Job duties include:
+ -  Assisting with demographic rate models for invasive Silver and Bighead Carp
+ -  Formulation of unsupervised clustering techniques to examine Musell populations
+ -  Model formulation to quantify agreement statistics in aging technique used among Silver Carp
+
+
 
 You can use the [editor on GitHub](https://github.com/oliverjohnw/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
