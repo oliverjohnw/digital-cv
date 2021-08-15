@@ -10,7 +10,7 @@ _Data Science Intern and Graduate Student based in La Crosse, Wisconsin_
 
 Data science internship with focus on data visualization, applied multivariate statistics, and population ecology modeling. Job duties include:
  -  Assisting with demographic rate models for invasive Silver and Bighead Carp
- -  Formulation of both supervised and unsupervised clustering techniques to examine Musell populations
+ -  Formulation of both supervised and unsupervised clustering techniques to examine Musel populations
  -  Model formulation to quantify agreement statistics in aging technique used among Silver Carp
  
 **Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - Present)_<br>
