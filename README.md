@@ -10,13 +10,17 @@ _Data Science Intern and Graduate Student based in La Crosse, Wisconsin_
 
 Data science internship with focus on applied multivariate statistics, data visualization, and population ecology modeling. Job duties include:
  -  Assisting with demographic rate models for invasive Silver and Bighead Carp
+     - Hierarchical linear and logistic regression to model fish length and maturity, with package in R and RStan
+     - 
 
 
  -  Implementation of both supervised and unsupervised clustering techniques to examine Musel populations
      - Non-Metric Multidimensional Scaling (NMDS) & distance based Redundancy Analysis (db-RDA) in vegan package in R
-     - ggplot2
+     - ggplot2 visualizations
 
  -  Model formulation to quantify agreement statistics in aging technique used among Silver Carp
+     - Linear Mixed Models in lme4 package in R
+     - ggplot2 visualizations
  
 **Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - Present)_<br>
 
@@ -27,7 +31,10 @@ Collaborate with college students to enhance their understanding and education o
 
 ## Skills
 
-**R** 
+**R**
+ - [Supervised Learning](https://github.com/oliverjohnw/supervised-learning)
+ - [Unsupervised Learning] 
+ - 
 
 **Python**
 
