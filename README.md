@@ -14,7 +14,7 @@ Data science internship with focus on applied multivariate statistics, data visu
 
  -  Implementation of both supervised and unsupervised clustering techniques to examine Musel populations
      - Non-Metric Multidimensional Scaling (NMDS) & distance based Redundancy Analysis (db-RDA) in vegan package in R
-     - ggplot2 for visualizations
+     - ggplot2
 
  -  Model formulation to quantify agreement statistics in aging technique used among Silver Carp
  
