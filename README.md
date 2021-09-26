@@ -31,12 +31,14 @@ Collaborate with college students to enhance their understanding and education o
 
 **R**
  - [Supervised Learning](https://github.com/oliverjohnw/supervised-learning)
- - Unsupervised Learning
+ - [Unsupervised Learning] (https://github.com/oliverjohnw/unsupervised-learning)
  - dplyr, ggplot2
  - Rmarkdown
  
 
 **Python**
+ - [Supervised Learning] (https://github.com/oliverjohnw/supervised-learning)
+ - [Unsupervised Learning] (https://github.com/oliverjohnw/unsupervised-learning)
  - Pandas, seaborn, matplotlib
  - Jupyter Notebook
 
