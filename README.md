@@ -20,6 +20,7 @@ Data science internship with focus on applied multivariate statistics, explorato
      - Linear Mixed Models in lme4 package in R
      - Data visualization & exploration in ggplot2
  <br> 
+ 
 **Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - Present)_<br>
 
 Collaborate with college students to enhance their understanding and education of Mathematics
