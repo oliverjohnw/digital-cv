@@ -22,10 +22,9 @@ _Data Science Intern and Graduate Student based in La Crosse, Wisconsin_
  
 **Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - Present)_<br>
 
-Collaborate with college students to enhance their understanding and education of Mathematics
- - Communication of ideas to ensure students' understanding
- - Mathematical knowledge of collegiate-level mathematical courses
- - Adaptation to meet diverse needs of students
+Educate college students to enhance their understanding of Mathematics
+ - Requires Mathematical knowledge of collegiate-level mathematics courses including Algebra, Calculus, and Linear Algebra.
+ - Prop communication skills to ensure students' understanding
 
 ## Skills
 
