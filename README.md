@@ -6,18 +6,18 @@ _Data Science Intern and Graduate Student based in La Crosse, Wisconsin_
 
 **Data Science Intern** @ [U.S. Geological Survey](https://www.usgs.gov/) _(June 2021 - Present)_ <br>
 
-Data science internship with focus on applied multivariate statistics, exploratory data analysis, and data visualization. Job duties include:
- * test 
- -  Assisting with demographic rate models for invasive Silver and Bighead Carp
-     - Hierarchical linear and logistic regression modelling fish length and maturity with blank package in R and RStan
+Data science internship with focus on applied multivariate statistics, exploratory data analysis, and data visualization. <br>
 
- -  Implementation of supervised and unsupervised clustering techniques to examine Musel populations
-     - Non-Metric Multidimensional Scaling (NMDS) & distance based Redundancy Analysis (db-RDA) in vegan package in R
-     - Data visualization & exploration in ggplot2
+ - Supervised and unsupervised clustering techniques to examine demographics of invasive Mussel populations
+     * Non-Metric Multidimensional Scaling (NMDS), Principle Component Analysis (PCA), distance based Redundancy Analysis (db-RDA) in R
 
- -  Model formulation to quantify agreement statistics in aging technique used among Silver Carp
+ -  Demographic rate models for invasive Silver and Bighead Carp
+     - Hierarchical linear and logistic regression within R and Rstan
+
+ -  Model formulation to quantify agreement statistics in aging technique used among invasive Silver Carp
      - Linear Mixed Models in lme4 package in R
-     - Data visualization & exploration in ggplot2
+
+ - Data visualization in ggplot2 within R
  <br> 
  
 **Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - Present)_<br>
