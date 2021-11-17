@@ -8,13 +8,16 @@ _Data Science Intern and Graduate Student based in La Crosse, Wisconsin_
 
  Applied multivariate statistics, exploratory data analysis, and data visualization with focus on natural resources and invasive species. <br>
 
- - Supervised and unsupervised clustering techniques to examine demographics of invasive Mussel populations
-     * Non-Metric Multidimensional Scaling (NMDS), Principle Component Analysis (PCA), distance based Redundancy Analysis (db-RDA) in R <br>
+ - Supervised and unsupervised clustering techniques to examine demographics of invasive Mussel populations <br>
+ 
+     * Non-Metric Multidimensional Scaling (NMDS), Principle Component Analysis (PCA), distance based Redundancy Analysis (db-RDA) in R 
 
  -  Demographic rate models for invasive Silver and Bighead Carp <br>
+  
      - Hierarchical linear and logistic regression within R and Rstan
 
  -  Model formulation to quantify agreement statistics in aging technique used among invasive Silver Carp <br>
+
      - Linear Mixed Models in lme4 package in R
 
  - Data visualization in ggplot2 within R
