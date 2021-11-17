@@ -4,9 +4,10 @@ _Data Science Intern and Graduate Student based in La Crosse, Wisconsin_
 
 ## Technical Experience
 
-**Data Science Intern** at [U.S. Geological Survey](https://www.usgs.gov/) _(June 2021 - Present)_ <br>
+**Data Science Intern** @ [U.S. Geological Survey](https://www.usgs.gov/) _(June 2021 - Present)_ <br>
 
-Data science internship with focus on applied multivariate statistics, exploratory data analysis, and population ecology modeling. Job duties include:
+Data science internship with focus on applied multivariate statistics, exploratory data analysis, and data visualization. Job duties include:
+ * test 
  -  Assisting with demographic rate models for invasive Silver and Bighead Carp
      - Hierarchical linear and logistic regression modelling fish length and maturity with blank package in R and RStan
 
