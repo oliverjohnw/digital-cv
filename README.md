@@ -59,5 +59,12 @@ Spring 2020 - Fall 2021 (Expected)
 [University of Wisconsin La Crosse](http://catalog.uwlax.edu/undergraduate/mathematics/statistics-bs/)  - La Crosse, Wisconsin <br>
 Fall 2016 - Spring 2020 
 
+<br>
+<br>
+<br>
 
-<img src="IMG_7506.PNG" width="324" height="324">
+<p align="center">
+  <img src="IMG_1168.JPEG" width="256" height="455">
+  <img src="IMG_4518.JPG" width="256" height="455">
+  <img src="IMG_7506.PNG" width="256" height="455">
+</p>
