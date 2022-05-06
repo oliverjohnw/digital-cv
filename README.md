@@ -60,4 +60,4 @@ Spring 2020 - Fall 2021 (Expected)
 Fall 2016 - Spring 2020 
 
 
-![GitHub Logo](/cv_images/IMG_7506.png)
+![TEST](IMG_7506.png)
