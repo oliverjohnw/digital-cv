@@ -31,7 +31,6 @@ _Data Scientist based out of Milwaukee, Wisconsin_
      - Linear Mixed Models in lme4 package in R
  
  <br> 
- <br>
  
 **Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - Present)_<br>
  - Mathematical knowledge of collegiate-level mathematics courses including Algebra, Calculus, and Linear Algebra.
