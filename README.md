@@ -1,4 +1,4 @@
-_Data Science Intern and Graduate Student based in La Crosse, Wisconsin_
+_Data Scientist based in Milwaukee, Wisconsin_
 
 [Email](mailto:johnoliver616@yahoo.com) / [GitHub](https://github.com/oliverjohnw) / [LinkedIn](https://www.linkedin.com/in/john-oliver-76508519a/) / [Twitter](https://twitter.com/olliejay00) / [Blog](https://www.olliejay00.com/)
 
