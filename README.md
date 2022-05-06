@@ -11,12 +11,12 @@ _Data Scientist based out of Milwaukee, Wisconsin_
 **Data Science Intern** @ [U.S. Geological Survey](https://www.usgs.gov/) _(June 2021 - June 2022)_ 
 
 
-&nbsp;  &nbsp; &nbsp;  _Description: Applied multivariate statistics, exploratory data analysis, and data &nbsp;  &nbsp; &nbsp; visualization with focus on natural resources and invasive + endangered species._ <br>
+_Description: Applied multivariate statistics, exploratory data analysis, and data &nbsp;  &nbsp; &nbsp; visualization with focus on natural resources and invasive + endangered species._ <br>
 
 
-
+<ins>
  - Examined demographics of a sample of endangered Mussels with supervised and unsupervised techniques <br>
-
+</ins> 
      * Non-Metric Multidimensional Scaling (NMDS), Principle Component Analysis (PCA), distance based Redundancy Analysis (db-RDA) in R 
 
  - Co-author of a paper examining relationship between selection of distance/dissimilarity metrics and performance of clustering, ordination, and canonical multivariate techniques <br> 
@@ -31,6 +31,7 @@ _Data Scientist based out of Milwaukee, Wisconsin_
  
 **Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - Present)_<br>
  - Mathematical knowledge of collegiate-level mathematics courses including Algebra, Calculus, and Linear Algebra. <br>
+ 
  - Advanced communication skills to ensure students' understanding
 
 <br>
@@ -38,14 +39,16 @@ _Data Scientist based out of Milwaukee, Wisconsin_
 
 ## Skills
 
-**R**, **Python**, **Git**, **Applied Statistics*, **Machine Learning**, **Exploratory Data Analysis**
+**R**, **Python**, **Git**, **Applied Statistics**, **Machine Learning**, **Exploratory Data Analysis**
 
+<br>
 
 ## Education
 
 **Master of Science**  in Applied Statistics <br>
 [University of Wisconsin La Crosse](https://www.uwlax.edu/grad/statistics/) - La Crosse, Wisconsin <br>
-Spring 2020 - Fall 2021 
+Spring 2020 - Fall 2021 <br>
+
 Master's Project: [Bayesian Hyperparameter Tuning in Classification of NBA Game Outcomes](https://github.com/oliverjohnw/nba-grad-project)
 
 **Bachelor of Science**  in Statistics <br>
