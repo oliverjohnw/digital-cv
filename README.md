@@ -64,7 +64,7 @@ Fall 2016 - Spring 2020
 <br>
 
 <p align="center">
-  <img src="IMG_4518.JPG" width="200" height="355">
-  <img src="IMG_1168.JPEG" width="200" height="355">
-  <img src="IMG_7506.PNG" width="200" height="355">
+  <img src="IMG_4518.JPG" width="200" height="300">
+  <img src="IMG_1168.JPEG" width="200" height="300">
+  <img src="IMG_7506.PNG" width="200" height="300">
 </p>
