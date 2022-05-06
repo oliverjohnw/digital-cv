@@ -23,18 +23,19 @@ _Applied multivariate statistics, exploratory data analysis, and data visualizat
   
      - Hierarchical linear and logistic regression within R and Rstan
 
- -  Model formulation to quantify agreement statistics in aging technique used among invasive Silver Carp <br>
+ -  Statistical consulting and model implementation to quantify agreement statistics in aging technique used among invasive Silver Carp <br>
 
      - Linear Mixed Models in lme4 package in R
-
- - Data visualization in ggplot2 within R
  
  <br> 
  <br>
  
 **Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - Present)_<br>
- - Requires Mathematical knowledge of collegiate-level mathematics courses including Algebra, Calculus, and Linear Algebra.
+ - Mathematical knowledge of collegiate-level mathematics courses including Algebra, Calculus, and Linear Algebra.
  - Advanced communication skills to ensure students' understanding
+
+<br>
+<br>
 
 ## Skills
 
