@@ -14,10 +14,7 @@ _Data Scientist based out of Milwaukee, Wisconsin_
 _Description: Applied multivariate statistics, exploratory data analysis, and data &nbsp;  &nbsp; &nbsp; visualization with focus on natural resources and invasive + endangered species._ <br>
 
 
-<ins>
  - Examined demographics of a sample of endangered Mussels with supervised and unsupervised techniques <br> 
- 
- </ins>
  
      * Non-Metric Multidimensional Scaling (NMDS), Principle Component Analysis (PCA), distance based Redundancy Analysis (db-RDA) in R 
 
