@@ -17,6 +17,8 @@ _Description: Applied multivariate statistics, exploratory data analysis, and da
 <ins>
  - Examined demographics of a sample of endangered Mussels with supervised and unsupervised techniques <br> 
  
+ </ins>
+ 
      * Non-Metric Multidimensional Scaling (NMDS), Principle Component Analysis (PCA), distance based Redundancy Analysis (db-RDA) in R 
 
  - Co-author of a paper examining relationship between selection of distance/dissimilarity metrics and performance of clustering, ordination, and canonical multivariate techniques <br> 
