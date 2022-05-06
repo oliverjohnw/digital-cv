@@ -47,7 +47,6 @@ _Description: Applied multivariate statistics, exploratory data analysis, and da
 **Master of Science**  in Applied Statistics <br>
 [University of Wisconsin La Crosse](https://www.uwlax.edu/grad/statistics/) - La Crosse, Wisconsin <br>
 Spring 2020 - Fall 2021 <br>
-
 Master's Project: [Bayesian Hyperparameter Tuning in Classification of NBA Game Outcomes](https://github.com/oliverjohnw/nba-grad-project)
 
 **Bachelor of Science**  in Statistics <br>
@@ -60,7 +59,9 @@ Fall 2016 - Spring 2020
 
 ## Personal Life
 
-Born and raised in Milwaukee, Wisconsin. Spent my late teenage and early adult life up in La Crosse, WI where I went to college. When I'm not inside writing code, you can find me outdoors! Love hiking, fishing, and spending time at my family's cabin with friends and family. Huge sports Wisconsin sports fan! 
+Born and raised in Milwaukee, Wisconsin before I spent my late teenage and early adult life going to college up in La Crosse, WI. When I'm not inside writing code, you can find me outdoors! Love hiking, fishing, and spending time at my family's cabin with friends and family. Huge sports Wisconsin sports fan! 
+
+<br>
 
 <p align="center">
   <img src="IMG_4518.JPG" width="200" height="300">
