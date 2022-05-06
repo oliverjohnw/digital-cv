@@ -58,3 +58,6 @@ Spring 2020 - Fall 2021 (Expected)
 **Bachelor of Science**  in Statistics <br>
 [University of Wisconsin La Crosse](http://catalog.uwlax.edu/undergraduate/mathematics/statistics-bs/)  - La Crosse, Wisconsin <br>
 Fall 2016 - Spring 2020 
+
+
+![GitHub Logo](/cv_images/IMG_7506.png)
