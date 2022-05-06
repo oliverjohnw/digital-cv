@@ -4,7 +4,7 @@ _Data Scientist based out of Milwaukee, Wisconsin_
 
 ## Technical Experience
 
-**Data Scientist** @ [Elutions](https://www.elutions.com/) _(June 2022 - Present) <br
+**Data Scientist** @ [Elutions](https://www.elutions.com/) _(June 2022 - Present) <br>
 
 **Data Science Intern** @ [U.S. Geological Survey](https://www.usgs.gov/) _(June 2021 - June 2022)_ <br>
 
