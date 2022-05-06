@@ -16,6 +16,9 @@ _Applied multivariate statistics, exploratory data analysis, and data visualizat
 
      * Non-Metric Multidimensional Scaling (NMDS), Principle Component Analysis (PCA), distance based Redundancy Analysis (db-RDA) in R 
 
+ - Co-author of a paper examining relationship between selection of distance/dissimilarity metrics and performance of clustering, ordination, and canonical multivariate techniques
+     * Hierarchical Clustering, K-Means/Medoids, PCoA/PCA, NMDS and db-RDA in R on metabolomic datasets
+
  -  Demographic rate models for invasive Silver and Bighead Carp <br>
   
      - Hierarchical linear and logistic regression within R and Rstan
