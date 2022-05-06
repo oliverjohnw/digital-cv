@@ -11,7 +11,7 @@ _Data Scientist based out of Milwaukee, Wisconsin_
 **Data Science Intern** @ [U.S. Geological Survey](https://www.usgs.gov/) _(June 2021 - June 2022)_ 
 
 
-<space> <space>  _Applied multivariate statistics, exploratory data analysis, and data visualization with focus on natural resources and invasive + endangered species._ <br>
+&nbsp;  _Applied multivariate statistics, exploratory data analysis, and data visualization with focus on natural resources and invasive + endangered species._ <br>
 
 
 
