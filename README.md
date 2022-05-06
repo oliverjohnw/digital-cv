@@ -1,10 +1,12 @@
-_Data Scientist based in Milwaukee, Wisconsin_
+_Data Scientist based out of Milwaukee, Wisconsin_
 
 [Email](mailto:johnoliver616@yahoo.com) / [GitHub](https://github.com/oliverjohnw) / [LinkedIn](https://www.linkedin.com/in/john-oliver-76508519a/) / [Twitter](https://twitter.com/olliejay00) / [Blog](https://www.olliejay00.com/)
 
 ## Technical Experience
 
-**Data Science Intern** @ [U.S. Geological Survey](https://www.usgs.gov/) _(June 2021 - Present)_ <br>
+**Data Scientist** @ [Elutions](https://www.elutions.com/) _(June 2022 - Present) <br
+
+**Data Science Intern** @ [U.S. Geological Survey](https://www.usgs.gov/) _(June 2021 - June 2022)_ <br>
 
  Applied multivariate statistics, exploratory data analysis, and data visualization with focus on natural resources and invasive species. <br>
 
