@@ -1,6 +1,6 @@
 _Data Science Intern and Graduate Student based in La Crosse, Wisconsin_
 
-[Email](mailto:oliver.john@uwlax.edu) / [GitHub](https://github.com/oliverjohnw) / [LinkedIn](https://www.linkedin.com/in/john-oliver-76508519a/) / [Twitter](https://twitter.com/olliejay_stats)
+[Email](mailto:johnoliver616@yahoo.com) / [GitHub](https://github.com/oliverjohnw) / [LinkedIn](https://www.linkedin.com/in/john-oliver-76508519a/) / [Twitter](https://twitter.com/olliejay00) / [Blog](https://www.olliejay00.com/)
 
 ## Technical Experience
 
