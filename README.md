@@ -61,6 +61,8 @@ Fall 2016 - Spring 2020
 
 ## Personal Life
 
+Born and raised in Milwaukee, Wisconsin. Spent my late teenage and early adult life up in La Crosse, WI where I went to college. When I'm not inside writing code, you can find me outdoors! Love hiking, fishing, and spending time at my family's cabin with friends and family. Huge sports Wisconsin sports fan! 
+
 <p align="center">
   <img src="IMG_4518.JPG" width="200" height="300">
   <img src="IMG_1168.JPEG" width="200" height="300">
