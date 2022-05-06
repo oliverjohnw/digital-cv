@@ -20,6 +20,7 @@ _Data Scientist based out of Milwaukee, Wisconsin_
      * Non-Metric Multidimensional Scaling (NMDS), Principle Component Analysis (PCA), distance based Redundancy Analysis (db-RDA) in R 
 
  - Co-author of a paper examining relationship between selection of distance/dissimilarity metrics and performance of clustering, ordination, and canonical multivariate techniques <br> 
+
      * Hierarchical Clustering, K-Means/Medoids, PCoA/PCA, NMDS and db-RDA in R on metabolomic datasets
 
  -  Demographic rate models for invasive Silver and Bighead Carp <br>
