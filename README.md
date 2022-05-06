@@ -4,14 +4,16 @@ _Data Scientist based out of Milwaukee, Wisconsin_
 
 ## Technical Experience
 
-**Data Scientist** @ [Elutions](https://www.elutions.com/) _(June 2022 - Present) <br>
+**Data Scientist** @ [Elutions](https://www.elutions.com/) _(June 2022 - Present)_ <br>
+
+<br>
 
 **Data Science Intern** @ [U.S. Geological Survey](https://www.usgs.gov/) _(June 2021 - June 2022)_ <br>
 
- Applied multivariate statistics, exploratory data analysis, and data visualization with focus on natural resources and invasive species. <br>
+ Applied multivariate statistics, exploratory data analysis, and data visualization with focus on natural resources and invasive + endangered species. <br>
 
- - Supervised and unsupervised clustering techniques to examine demographics of invasive Mussel populations <br>
- 
+ - Examined demographics of a sample of endangered Mussels with supervised and unsupervised techniques <br>
+
      * Non-Metric Multidimensional Scaling (NMDS), Principle Component Analysis (PCA), distance based Redundancy Analysis (db-RDA) in R 
 
  -  Demographic rate models for invasive Silver and Bighead Carp <br>
