@@ -23,10 +23,6 @@ _Data Scientist based out of Milwaukee, Wisconsin_
 
      * Hierarchical Clustering, K-Means/Medoids, PCoA/PCA, NMDS and db-RDA in R on metabolomic datasets
 
- -  Demographic rate models for invasive Silver and Bighead Carp <br>
-  
-     - Hierarchical linear and logistic regression within R and Rstan
-
  -  Statistical consulting and model implementation to quantify agreement statistics in aging technique used among invasive Silver Carp <br>
 
      - Linear Mixed Models in lme4 package in R
@@ -34,7 +30,7 @@ _Data Scientist based out of Milwaukee, Wisconsin_
  <br> 
  
 **Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - Present)_<br>
- - Mathematical knowledge of collegiate-level mathematics courses including Algebra, Calculus, and Linear Algebra.
+ - Mathematical knowledge of collegiate-level mathematics courses including Algebra, Calculus, and Linear Algebra. <br>
  - Advanced communication skills to ensure students' understanding
 
 <br>
@@ -42,31 +38,15 @@ _Data Scientist based out of Milwaukee, Wisconsin_
 
 ## Skills
 
-**R**
- - [Supervised Learning](https://github.com/oliverjohnw/supervised-learning)
- - [Unsupervised Learning](https://github.com/oliverjohnw/unsupervised-learning)
- - dplyr, ggplot2
- - Rmarkdown
- 
-
-**Python**
- - [Supervised Learning](https://github.com/oliverjohnw/supervised-learning)
- - [Unsupervised Learning](https://github.com/oliverjohnw/unsupervised-learning)
- - Pandas, seaborn, matplotlib
- - Jupyter Notebook
-
-**Version Control in Git**
- - Github/Gitlab
- - History revision
-
-**Exploratory Data Analysis**
+**R**, **Python**, **Git**, **Applied Statistics*, **Machine Learning**, **Exploratory Data Analysis**
 
 
 ## Education
 
 **Master of Science**  in Applied Statistics <br>
 [University of Wisconsin La Crosse](https://www.uwlax.edu/grad/statistics/) - La Crosse, Wisconsin <br>
-Spring 2020 - Fall 2021 (Expected)
+Spring 2020 - Fall 2021 
+Master's Project: [Bayesian Hyperparameter Tuning in Classification of NBA Game Outcomes](https://github.com/oliverjohnw/nba-grad-project)
 
 **Bachelor of Science**  in Statistics <br>
 [University of Wisconsin La Crosse](http://catalog.uwlax.edu/undergraduate/mathematics/statistics-bs/)  - La Crosse, Wisconsin <br>
@@ -75,6 +55,8 @@ Fall 2016 - Spring 2020
 <br>
 <br>
 <br>
+
+## Personal Life
 
 <p align="center">
   <img src="IMG_4518.JPG" width="200" height="300">
