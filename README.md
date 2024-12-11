@@ -30,7 +30,7 @@ _Description: Applied multivariate statistics and machine learning on projects f
  
  <br> 
  
-**Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - Present)_<br>
+**Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - December 2021)_<br>
 - Provided tutoring support for collegiate-level mathematics courses, including **Algebra**, **Calculus**, and **Linear Algebra**, improving students' comprehension and performance.  
 - Adapted to individual learning styles while ensuring concepts were effectively understood.  
 
