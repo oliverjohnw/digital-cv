@@ -50,11 +50,27 @@ Fall 2016 - Spring 2020
 
 <br>
 <br>
+
+
+## Projects
+
+**NFL Game Prediction Dashboard**
+
+Constructed a model that predicts the outcome of games in the NFL. Built an
+interactive dashboard to visualize predictions, team data, statistics, and key game
+factors.
+
+* Dashboard: https://johns-nfl-dashboard.streamlit.app/
+* Github: https://github.com/oliverjohnw/nfl-dashboard 
+
 <br>
 
-## Skills
+**Spotify Song Recommender**
 
-**Python**, **Git**, **Bash**, **Machine Learning**, **Applied Statistics**, **EDA**, **R**, **SQL**
+Designed and implemented a music recommendation system that suggests similar
+songs based on user input from Spotify.
+
+* Github: https://github.com/oliverjohnw/spotify-recommendations 
 
 
 <br>
